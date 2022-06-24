@@ -14,7 +14,7 @@ class Specilizing extends Component {
                     spanicon: 'icon-designer',
                     title: 'Web Designer',
                     text01: "I'm a web designer",
-                    text02: 'experience. My main focus is on listening.'
+                    text02: 'experience. My main focus is on Design.'
                 },
                 {
                     id: 2,

@@ -17,7 +17,7 @@ class Banner extends Component {
                                     </span>
                                 </h1>
                                 <p className="lt-sp03 mg-b60 text-white">
-                                    Hi, I’m kanika. Nice to meet you.
+                                    Hi, I'm kanika. Nice to meet you.
                                     <br />
                                     I design and code beautifully simple things, and I love what I do.  <br />I'm quietly confident, naturally curious, and perpetually working  <br />on improving my chops one design problem at a time.
                                 </p>
